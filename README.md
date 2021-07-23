@@ -1,34 +1,4 @@
-# dashboard
+Projeto Feedbacker
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Run your end-to-end tests
-```
-npm run test:e2e
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Desenvolvimento do projeto Feedbacker. Trata-se de um sistema de gerenciamento de feedbacks de modo geral desenvolvido com Vue.js na sua última versão 3.
+Projeto este desenvolvido no treinamento da comunidade Vue.js Brasil referente ao Vue.js3.
